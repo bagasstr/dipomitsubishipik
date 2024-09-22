@@ -9,7 +9,7 @@ const Layanan = () => {
     <section id='finance-section'>
       <figure className=''>
         <Image
-          src={adiraFinance}
+          src='/logo-adira-finance.png'
           width={100}
           height={100}
           alt='adira finance'
@@ -18,7 +18,7 @@ const Layanan = () => {
       </figure>
       <figure className=''>
         <Image
-          src={megaFinance}
+          src={"/logo-mega-finance.webp"}
           width={100}
           height={100}
           alt='mega finance'
@@ -27,7 +27,7 @@ const Layanan = () => {
       </figure>
       <figure className=''>
         <Image
-          src={mtFinance}
+          src={"/logo-mtf.png"}
           width={100}
           height={100}
           alt='mandiri tunas finance'
@@ -36,7 +36,7 @@ const Layanan = () => {
       </figure>
       <figure className=''>
         <Image
-          src={dipoStarFinance}
+          src={"/logo-dsf.png"}
           width={100}
           height={100}
           alt='dipo star finance'
