@@ -60,10 +60,10 @@
     #sales-section #description p {
       @apply w-[70%] mx-auto text-center font-light text-neutral-700/80 mt-4;
     }
-    #sales-section #description h1 {
+    #sales-section #description h2 {
       @apply text-center font-semibold text-lg text-neutral-700 mt-4;
     }
-    #sales-section #description h2 {
+    #sales-section #description h3 {
       @apply text-center font-medium bg-neutral-700 px-3.5 lowercase rounded-full w-fit mx-auto text-neutral-50 text-xs py-1;
     }
 

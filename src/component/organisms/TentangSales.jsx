@@ -11,9 +11,9 @@ const TentangSales = () => {
           "Kami berkomitmen untuk memberikan nilai terbaik kepada pelanggan kami
           melalui harga kompetitif dan penawaran menarik."
         </p>
-        <h1 className=''>-Sultan Fahrezi-</h1>
+        <h2 className=''>-Sultan Fahrezi-</h2>
         <hr />
-        <h2 className=''>Sales Eksekutif</h2>
+        <h3 className=''>Sales Eksekutif</h3>
         <Link
           id='sales-cta'
           href='https://wa.me/6282125823878?text=Halo,%20Saya%20mau%20tanya%20tentang%20mobil%20mitsubishi'>

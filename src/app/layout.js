@@ -16,7 +16,7 @@ export const metadata = {
     google: "googled81ade8dd415c7d1.html",
   },
   description:
-    "Dealer Resmi Mistubishi. Temukan mobil Mitsubishi impian Anda di sini! Kami menawarkan berbagai pilihan mobil baru dengan harga terbaik dan promo menarik. Dapatkan layanan sales yang profesional dan terpercaya.",
+    "Dealer Resmi Mitsubishi. Temukan mobil impian Anda! Pilihan mobil baru, harga terbaik, promo menarik, dan layanan sales profesional & terpercaya hanya di sini!",
   keywords:
     "Mitsubishi, Dealer Mitsubishi, Dealer Mitsubishi Jakarta, Harga Mobil, Mitsubishi Xpander, Mitsubishi Pajero Sport, Mitsubishi Triton, Mobil Keluarga, Mobil SUV, Mobil Pick Up, Promo Mobil, Cicilan Mobil, Harga Mobil",
   openGraph: {
