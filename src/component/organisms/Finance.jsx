@@ -1,8 +1,8 @@
 import Image from "next/image";
-import adiraFinance from "../../../public/logo-adira-finance.png";
-import megaFinance from "../../../public/logo-mega-finance.webp";
-import mtFinance from "../../../public/logo-mtf.png";
-import dipoStarFinance from "../../../public/logo-dsf.png";
+import adiraFinance from "/logo-adira-finance.png";
+import megaFinance from "/logo-mega-finance.webp";
+import mtFinance from "/logo-mtf.png";
+import dipoStarFinance from "/logo-dsf.png";
 
 const Layanan = () => {
   return (
