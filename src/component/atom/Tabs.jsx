@@ -44,7 +44,7 @@ const Tabs = ({ data }) => {
 
       <section id='tabs-content'>
         <Swiper spaceBetween={10} slidesPerView={2}>
-          {(typeCars || passengerCars)?.map((item) => (
+          {(typeCars && passengerCars)?.map((item) => (
             <SwiperSlide key={item.id} id='card-tab'>
               <figure>
                 <Image
@@ -53,7 +53,6 @@ const Tabs = ({ data }) => {
                   alt={item.name}
                   width={200}
                   height={200}
-                  priority
                 />
               </figure>
               <div id='desc-tab'>
