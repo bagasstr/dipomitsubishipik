@@ -31,13 +31,13 @@ const Tabs = ({ data }) => {
         <button
           className={`${tab === "btn-tab-2" ? "active" : ""}`}
           id='btn-tab-2'
-          onClick={() => findTypeCars("Light Commercial Vehicle", 2)}>
+          onClick={() => findTypeCars("Light Commercial Car", 2)}>
           Light Commercial Car
         </button>
         <button
           className={`${tab === "btn-tab-3" ? "active" : ""}`}
           id='btn-tab-3'
-          onClick={() => findTypeCars("Commercial Vehicle", 3)}>
+          onClick={() => findTypeCars("Commercial Car", 3)}>
           Commercial Car
         </button>
       </section>
