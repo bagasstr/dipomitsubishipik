@@ -36,7 +36,7 @@ const Hero = () => {
         </section>
         <section id='img-hero-section'>
           <Image
-            src={imgHero}
+            src={"/img-jumbotron-resizes.png"}
             alt='hero'
             id='img-hero'
             width={400}
