@@ -30,14 +30,7 @@ const Hero = () => {
           </section>
         </section>
         <section id='img-hero-section'>
-          <Image
-            src={imgHero}
-            alt='hero'
-            id='img-hero'
-            width={1000}
-            height={1000}
-            className=''
-          />
+          <Image src={imgHero} alt='hero' id='img-hero' fill className='' />
         </section>
       </div>
     </section>
