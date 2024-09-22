@@ -1,5 +1,5 @@
 import Tabs from "../atom/Tabs";
-import data from "data.json";
+import data from "../../../data.json";
 
 const Katalog = async () => {
   return (
