@@ -1,0 +1,162 @@
+[
+  {
+    "createdAt": 1726769994,
+    "name": "NEW Xpander Cross",
+    "type": "Passenger Car",
+    "price": 46,
+    "image": "/car-mitsubishi/passenger-cars/New_Xpander_Cross.webp",
+    "id": "1"
+  },
+  {
+    "createdAt": 1726769934,
+    "name": "Xpander Cross ELIT Limited Edition",
+    "type": "Passenger Car",
+    "price": 98,
+    "image": "/car-mitsubishi/passenger-cars/Xpander_Cross_Elit.webp",
+    "id": "2"
+  },
+  {
+    "createdAt": 1726769874,
+    "name": "NEW Xforce",
+    "type": "Passenger Car",
+    "price": 42,
+    "image": "/car-mitsubishi/passenger-cars/New_Xforce.webp",
+    "id": "3"
+  },
+  {
+    "createdAt": 1726769814,
+    "name": "NEW Xpander",
+    "type": "Passenger Car",
+    "price": 7,
+    "image": "/car-mitsubishi/passenger-cars/New_Xpander.webp",
+    "id": "4"
+  },
+  {
+    "createdAt": 1726769754,
+    "name": "Pajero Sport ELIT Limited Edition",
+    "type": "Passenger Car",
+    "price": 36,
+    "image": "/car-mitsubishi/passenger-cars/Pajero_Sport_Elit_Limited_Edition.webp",
+    "id": "5"
+  },
+  {
+    "createdAt": 1726769694,
+    "name": "New Pajero Sport",
+    "type": "Passenger Car",
+    "price": 26,
+    "image": "/car-mitsubishi/passenger-cars/New_Pajero.webp",
+    "id": "6"
+  },
+  {
+    "createdAt": 1726769634,
+    "name": "Pajero Sport",
+    "type": "Passenger Car",
+    "price": 45,
+    "image": "/car-mitsubishi/passenger-cars/Pajero_Sport.webp",
+    "id": "7"
+  },
+  {
+    "createdAt": 1726769574,
+    "name": "NEW L100 EV",
+    "type": "Light Commercial Car",
+    "price": 88,
+    "image": "/car-mitsubishi/light-commercial-cars/New_L100_Ev.webp",
+    "id": "8"
+  },
+  {
+    "createdAt": 1726769514,
+    "name": "NEW COLT L300",
+    "type": "Light Commercial Car",
+    "price": 74,
+    "image": "/car-mitsubishi/light-commercial-cars/New_Colt_L300.webp",
+    "id": "9"
+  },
+  {
+    "createdAt": 1726769454,
+    "name": "NEW TRITON 2023",
+    "type": "Light Commercial Car",
+    "price": 35,
+    "image": "/car-mitsubishi/light-commercial-cars/New_Triton_2023.webp",
+    "id": "10"
+  },
+  {
+    "createdAt": 1726769394,
+    "name": "ALL NEW TRITON",
+    "type": "Light Commercial Car",
+    "price": 96,
+    "image": "/car-mitsubishi/light-commercial-cars/All_New_Triton.webp",
+    "id": "11"
+  },
+  {
+    "createdAt": 1726769334,
+    "name": "Colt Diesel FE 71",
+    "type": "Commercial Car",
+    "price": 90,
+    "image": "/car-mitsubishi/commercial-cars/Colt_Diesel_Fe71.webp",
+    "id": "12"
+  },
+  {
+    "createdAt": 1726769274,
+    "name": "Colt Diesel FE 73",
+    "type": "Commercial Car",
+    "price": 28,
+    "image": "/car-mitsubishi/commercial-cars/Colt_Diesel_Fe73.webp",
+    "id": "13"
+  },
+  {
+    "createdAt": 1726769214,
+    "name": "Colt Diesel eCanter",
+    "type": "Commercial Car",
+    "price": 98,
+    "image": "/car-mitsubishi/commercial-cars/Colt_Diesel_eCanter.webp",
+    "id": "14"
+  },
+  {
+    "createdAt": 1726855811,
+    "name": "Fighter X FM 65 FSL Hi-Gear",
+    "type": "Commercial Car",
+    "price": 53,
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fsl_HiGear.webp",
+    "id": "15"
+  },
+  {
+    "createdAt": 1726855751,
+    "name": "Fighter X FM 65 FM Hi-Gear",
+    "type": "Commercial Car",
+    "price": 52,
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fm_HiGear.webp",
+    "id": "16"
+  },
+  {
+    "createdAt": 1726855691,
+    "name": "Fighter X FM 65 FSL",
+    "type": "Commercial Car",
+    "price": 10,
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fsl.webp",
+    "id": "17"
+  },
+  {
+    "createdAt": 1726855631,
+    "name": "Fighter X FM 65 FS Hi-Gear",
+    "type": "Commercial Car",
+    "price": 30,
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fs_HiGear.webp",
+    "id": "18"
+  },
+  {
+    "createdAt": 1726855571,
+    "name": "Fighter X FM 65 FL Hi-Gear",
+    "type": "Commercial Car",
+    "price": 25,
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fl_HiGear.webp",
+    "id": "19"
+  },
+  {
+    "createdAt": 1726855511,
+    "name": "Fighter X FN 62F TH",
+    "type": "Commercial Car",
+    "price": 17,
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fn62f_Th.webp",
+    "id": "20"
+  }
+]
