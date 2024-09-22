@@ -1,8 +1,8 @@
 import Image from "next/image";
 // import bgLayanan from "../../../public/mitsubishi.jpg";
-import exchange from "exchange.svg";
-import invoice from "invoice.svg";
-import streering from "streering.svg";
+import exchange from "../../../public/exchange.svg";
+import invoice from "../../../public/invoice.svg";
+import streering from "../../../public/streering.svg";
 
 const Layanan = () => {
   return (
