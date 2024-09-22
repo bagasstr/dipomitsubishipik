@@ -8,11 +8,12 @@ const Hero = () => {
     <section id='hero-section' className=''>
       <div className='relative'>
         <Image
-          src={"/background.jpg"}
+          src={bg}
           alt='hero'
           id='bg-hero'
-          width={100}
-          height={100}
+          width={1000}
+          height={1000}
+          priority
           className=''
         />
         <section id='title-hero-section'>
@@ -40,6 +41,7 @@ const Hero = () => {
             alt='hero'
             id='img-hero'
             width={400}
+            priority
             height={400}
             className=''
           />

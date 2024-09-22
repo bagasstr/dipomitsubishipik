@@ -14,12 +14,14 @@ const Layanan = () => {
           height={100}
           alt='adira finance'
           id='img-finance'
+          priority
         />
       </figure>
       <figure className=''>
         <Image
           src={"/logo-mega-finance.webp"}
           width={100}
+          priority
           height={100}
           alt='mega finance'
           id='img-finance'
@@ -28,6 +30,7 @@ const Layanan = () => {
       <figure className=''>
         <Image
           src={"/logo-mtf.png"}
+          priority
           width={100}
           height={100}
           alt='mandiri tunas finance'
@@ -38,6 +41,7 @@ const Layanan = () => {
         <Image
           src={"/logo-dsf.png"}
           width={100}
+          priority
           height={100}
           alt='dipo star finance'
           id='img-finance'

@@ -24,8 +24,9 @@ const Layanan = () => {
           <div className='card-1' id='card'>
             <Image
               id='img-card'
-              src={streering}
+              src={"/streering.svg"}
               alt='test drive'
+              priority
               width={80}
               height={80}
             />
@@ -38,7 +39,7 @@ const Layanan = () => {
           <div className='card-2' id='card'>
             <Image
               id='img-card'
-              src={invoice}
+              src={"/invoice.svg"}
               alt='credit'
               width={80}
               height={80}
@@ -52,7 +53,7 @@ const Layanan = () => {
           <div className='card-3' id='card'>
             <Image
               id='img-card'
-              src={exchange}
+              src={"/exchange.svg"}
               alt='tuker tambah'
               width={80}
               height={80}
