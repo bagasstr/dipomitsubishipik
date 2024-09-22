@@ -4,7 +4,7 @@
     "name": "NEW Xpander Cross",
     "type": "Passenger Car",
     "price": 46,
-    "image": "../../../public/car-mitsubishi/passenger-cars/New_Xpander_Cross.webp",
+    "image": "/car-mitsubishi/passenger-cars/New_Xpander_Cross.webp",
     "id": "1"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Xpander Cross ELIT Limited Edition",
     "type": "Passenger Car",
     "price": 98,
-    "image": "../../../public/car-mitsubishi/passenger-cars/Xpander_Cross_Elit.webp",
+    "image": "/car-mitsubishi/passenger-cars/Xpander_Cross_Elit.webp",
     "id": "2"
   },
   {
@@ -20,7 +20,7 @@
     "name": "NEW Xforce",
     "type": "Passenger Car",
     "price": 42,
-    "image": "../../../public/car-mitsubishi/passenger-cars/New_Xforce.webp",
+    "image": "/car-mitsubishi/passenger-cars/New_Xforce.webp",
     "id": "3"
   },
   {
@@ -28,7 +28,7 @@
     "name": "NEW Xpander",
     "type": "Passenger Car",
     "price": 7,
-    "image": "../../../public/car-mitsubishi/passenger-cars/New_Xpander.webp",
+    "image": "/car-mitsubishi/passenger-cars/New_Xpander.webp",
     "id": "4"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Pajero Sport ELIT Limited Edition",
     "type": "Passenger Car",
     "price": 36,
-    "image": "../../../public/car-mitsubishi/passenger-cars/Pajero_Sport_Elit_Limited_Edition.webp",
+    "image": "/car-mitsubishi/passenger-cars/Pajero_Sport_Elit_Limited_Edition.webp",
     "id": "5"
   },
   {
@@ -44,7 +44,7 @@
     "name": "New Pajero Sport",
     "type": "Passenger Car",
     "price": 26,
-    "image": "../../../public/car-mitsubishi/passenger-cars/New_Pajero.webp",
+    "image": "/car-mitsubishi/passenger-cars/New_Pajero.webp",
     "id": "6"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Pajero Sport",
     "type": "Passenger Car",
     "price": 45,
-    "image": "../../../public/car-mitsubishi/passenger-cars/Pajero_Sport.webp",
+    "image": "/car-mitsubishi/passenger-cars/Pajero_Sport.webp",
     "id": "7"
   },
   {
@@ -60,7 +60,7 @@
     "name": "NEW L100 EV",
     "type": "Light Commercial Car",
     "price": 88,
-    "image": "../../../public/car-mitsubishi/light-commercial-cars/New_L100_Ev.webp",
+    "image": "/car-mitsubishi/light-commercial-cars/New_L100_Ev.webp",
     "id": "8"
   },
   {
@@ -68,7 +68,7 @@
     "name": "NEW COLT L300",
     "type": "Light Commercial Car",
     "price": 74,
-    "image": "../../../public/car-mitsubishi/light-commercial-cars/New_Colt_L300.webp",
+    "image": "/car-mitsubishi/light-commercial-cars/New_Colt_L300.webp",
     "id": "9"
   },
   {
@@ -76,7 +76,7 @@
     "name": "NEW TRITON 2023",
     "type": "Light Commercial Car",
     "price": 35,
-    "image": "../../../public/car-mitsubishi/light-commercial-cars/New_Triton_2023.webp",
+    "image": "/car-mitsubishi/light-commercial-cars/New_Triton_2023.webp",
     "id": "10"
   },
   {
@@ -84,7 +84,7 @@
     "name": "ALL NEW TRITON",
     "type": "Light Commercial Car",
     "price": 96,
-    "image": "../../../public/car-mitsubishi/light-commercial-cars/All_New_Triton.webp",
+    "image": "/car-mitsubishi/light-commercial-cars/All_New_Triton.webp",
     "id": "11"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Colt Diesel FE 71",
     "type": "Commercial Car",
     "price": 90,
-    "image": "../../../public/car-mitsubishi/commercial-cars/Colt_Diesel_Fe71.webp",
+    "image": "/car-mitsubishi/commercial-cars/Colt_Diesel_Fe71.webp",
     "id": "12"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Colt Diesel FE 73",
     "type": "Commercial Car",
     "price": 28,
-    "image": "../../../public/car-mitsubishi/commercial-cars/Colt_Diesel_Fe73.webp",
+    "image": "/car-mitsubishi/commercial-cars/Colt_Diesel_Fe73.webp",
     "id": "13"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Colt Diesel eCanter",
     "type": "Commercial Car",
     "price": 98,
-    "image": "../../../public/car-mitsubishi/commercial-cars/Colt_Diesel_eCanter.webp",
+    "image": "/car-mitsubishi/commercial-cars/Colt_Diesel_eCanter.webp",
     "id": "14"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Fighter X FM 65 FSL Hi-Gear",
     "type": "Commercial Car",
     "price": 53,
-    "image": "../../../public/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fsl_HiGear.webp",
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fsl_HiGear.webp",
     "id": "15"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Fighter X FM 65 FM Hi-Gear",
     "type": "Commercial Car",
     "price": 52,
-    "image": "../../../public/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fm_HiGear.webp",
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fm_HiGear.webp",
     "id": "16"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Fighter X FM 65 FSL",
     "type": "Commercial Car",
     "price": 10,
-    "image": "../../../public/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fsl.webp",
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fsl.webp",
     "id": "17"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Fighter X FM 65 FS Hi-Gear",
     "type": "Commercial Car",
     "price": 30,
-    "image": "../../../public/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fs_HiGear.webp",
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fs_HiGear.webp",
     "id": "18"
   },
   {
@@ -148,7 +148,7 @@
     "name": "Fighter X FM 65 FL Hi-Gear",
     "type": "Commercial Car",
     "price": 25,
-    "image": "../../../public/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fl_HiGear.webp",
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fm65_Fl_HiGear.webp",
     "id": "19"
   },
   {
@@ -156,7 +156,7 @@
     "name": "Fighter X FN 62F TH",
     "type": "Commercial Car",
     "price": 17,
-    "image": "../../../public/car-mitsubishi/commercial-cars/Fighter_X_Fn62f_Th.webp",
+    "image": "/car-mitsubishi/commercial-cars/Fighter_X_Fn62f_Th.webp",
     "id": "20"
   }
 ]
