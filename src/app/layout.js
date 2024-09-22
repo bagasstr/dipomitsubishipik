@@ -1,6 +1,7 @@
 import Navbar from "@/component/organisms/Navbar";
 import "./globals.css";
 import { Poppins } from "next/font/google";
+import { GoogleTagManager, GoogleAnalytics } from "@next/third-parties/google";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -29,6 +30,10 @@ export const metadata = {
     ],
     locale: "en-US",
     type: "website",
+  },
+
+  verification: {
+    google: "googled81ade8dd415c7d1.html",
   },
   authors: [
     { name: "Bagas Satrio", url: "https://linkedin.com/id/bagasstr/" },
