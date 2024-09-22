@@ -1,6 +1,6 @@
 import Image from "next/image";
-import bg from "/background.jpg";
-import imgHero from "/img-jumbotron-resizes.png";
+import bg from "background.jpg";
+import imgHero from "img-jumbotron-resizes.png";
 import Link from "next/link";
 
 const Hero = () => {
