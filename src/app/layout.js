@@ -45,18 +45,19 @@ export const metadata = {
     initialScale: 1.0,
     maximumScale: 1.0,
   },
-  robots: {
-    index: true,
-    follow: true,
-    nocache: true,
-    googleBot: {
-      index: true,
-      follow: true,
-      "max-video-preview": -1,
-      "max-image-preview": "large",
-      "max-snippet": -1,
-    },
-  },
+  // robots: {
+  //   index: true,
+  //   follow: true,
+  //   nocache: true,
+  //   googleBot: {
+  //     index: true,
+  //     follow: true,
+  //     noimageindex: true,
+  //     "max-video-preview": -1,
+  //     "max-image-preview": "large",
+  //     "max-snippet": -1,
+  //   },
+  // },
   creator: "Bagas Satrio",
   publisher: "Bagas Satrio",
 };
