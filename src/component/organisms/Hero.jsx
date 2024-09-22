@@ -7,9 +7,14 @@ const Hero = () => {
   return (
     <section id='hero-section' className=''>
       <div className='relative'>
-        <figure className=''>
-          <Image src={bg} alt='hero' id='bg-hero' sizes='100vw' className='' />
-        </figure>
+        <Image
+          src={"/background.jpg"}
+          alt='hero'
+          id='bg-hero'
+          width={100}
+          height={100}
+          className=''
+        />
         <section id='title-hero-section'>
           <h1 className=''>Mobil Baru, Gaya Hidup Baru</h1>
           <p className=''>
@@ -30,7 +35,14 @@ const Hero = () => {
           </section>
         </section>
         <section id='img-hero-section'>
-          <Image src={imgHero} alt='hero' id='img-hero' fill className='' />
+          <Image
+            src={imgHero}
+            alt='hero'
+            id='img-hero'
+            width={400}
+            height={400}
+            className=''
+          />
         </section>
       </div>
     </section>
