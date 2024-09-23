@@ -15,6 +15,10 @@ export const metadata = {
   verification: {
     google: "googled81ade8dd415c7d1.html",
   },
+  icons: {
+    shortcut: "./favicon.ico",
+    icon: "./favicon.ico",
+  },
   description:
     "Dealer Resmi Mitsubishi. Temukan mobil impian Anda! Pilihan mobil baru, harga terbaik, promo menarik, dan layanan sales profesional & terpercaya hanya di sini!",
   keywords:
