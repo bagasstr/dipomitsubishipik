@@ -28,9 +28,7 @@ const Hero = () => {
               href='https://wa.me/6282125823878?text=Halo,%20Saya%20mau%20test%20drive'>
               Test Drive
             </Link>
-            <Link
-              id='button-katalog-mobil'
-              href='https://wa.me/6282125823878?text=Halo,%20Saya%20mau%20test%20drive'>
+            <Link id='button-katalog-mobil' href='#katalog'>
               Katalog Mobil
             </Link>
           </section>

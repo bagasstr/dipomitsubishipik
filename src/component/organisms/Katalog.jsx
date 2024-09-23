@@ -3,7 +3,7 @@ import data from "../../../data.json";
 
 const Katalog = async () => {
   return (
-    <section>
+    <section id='katalog'>
       <div className='' id='katalog-section'>
         <section className='' id='katalog-header'>
           <h6 className='' id='title-katalog'>
