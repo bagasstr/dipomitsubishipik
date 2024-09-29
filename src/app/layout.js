@@ -1,8 +1,8 @@
-import Navbar from "@/component/organisms/Navbar";
 import "./globals.css";
 import { Poppins } from "next/font/google";
 import { GoogleTagManager, GoogleAnalytics } from "@next/third-parties/google";
 import robots from "./robots";
+import Navbar from "@/component/organisms/Navbar";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -43,25 +43,25 @@ export const metadata = {
     { name: "Bagas Satrio", url: "https://linkedin.com/id/bagasstr/" },
     { name: "Dipo Mistubishi Pik", url: "https://dipomitsubishi.vercel.app/" },
   ],
-  category: "cars",
-  viewport: {
-    width: "device-width",
-    initialScale: 1.0,
-    maximumScale: 1.0,
-  },
-  // robots: {
-  //   index: true,
-  //   follow: true,
-  //   nocache: true,
-  //   googleBot: {
-  //     index: true,
-  //     follow: true,
-  //     noimageindex: true,
-  //     "max-video-preview": -1,
-  //     "max-image-preview": "large",
-  //     "max-snippet": -1,
-  //   },
+  category: "mobil",
+  // viewport: {
+  //   width: "device-width",
+  //   initialScale: 1.0,
+  //   maximumScale: 1.0,
   // },
+  robots: {
+    index: true,
+    follow: true,
+    nocache: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      noimageindex: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
   creator: "Bagas Satrio",
   publisher: "Bagas Satrio",
 };

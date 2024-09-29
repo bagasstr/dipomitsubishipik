@@ -1,5 +1,5 @@
 import Link from "next/link";
-import TentangSales from "./TentangSales";
+import TentangSales from "../TentangSales";
 
 const Footer = () => {
   return (
